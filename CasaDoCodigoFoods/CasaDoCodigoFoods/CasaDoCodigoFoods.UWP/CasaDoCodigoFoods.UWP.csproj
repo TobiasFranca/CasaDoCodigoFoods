@@ -108,6 +108,7 @@
     <None Include="CasaDoCodigoFoods.UWP_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\icone_entregadores.png" />
     <Content Include="Assets\icone_garcons.png" />
     <Content Include="Assets\icone_list.png" />
     <Content Include="Assets\icone_new.png" />
