@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CasaDoCodigoFoods.Pages;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +14,7 @@ namespace CasaDoCodigoFoods
         {
             InitializeComponent();
 
-            MainPage = new Pages.MenuPage();
+            MainPage = new NavigationPage(new MenuPage());
         }
 
         protected override void OnStart()
