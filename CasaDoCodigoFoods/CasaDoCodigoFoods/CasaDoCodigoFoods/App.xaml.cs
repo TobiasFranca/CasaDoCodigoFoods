@@ -13,7 +13,7 @@ namespace CasaDoCodigoFoods
         {
             InitializeComponent();
 
-            MainPage = new CasaDoCodigoFoods.MainPage();
+            MainPage = new Pages.MenuPage();
         }
 
         protected override void OnStart()

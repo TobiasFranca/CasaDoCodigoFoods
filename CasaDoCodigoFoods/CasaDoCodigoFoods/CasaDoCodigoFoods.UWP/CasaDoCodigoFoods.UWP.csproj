@@ -108,6 +108,9 @@
     <None Include="CasaDoCodigoFoods.UWP_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\icone_garcons.png" />
+    <Content Include="Assets\icone_list.png" />
+    <Content Include="Assets\icone_new.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-100.png" />
     <Content Include="Assets\LockScreenLogo.scale-125.png" />
